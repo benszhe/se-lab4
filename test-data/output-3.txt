@@ -1,0 +1,3 @@
+SUCCESS
+FAIL #1 chance to FAIL, the first one gonna be the primary
+SUCCESS #then the secondary, sicherlich wird gefeuert
